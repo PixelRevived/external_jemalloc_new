@@ -16,6 +16,7 @@
 #include "jemalloc/internal/malloc_io.h"
 #include "jemalloc/internal/mutex.h"
 #include "jemalloc/internal/nstime.h"
+#include "jemalloc/internal/private_namespace.h"
 #include "jemalloc/internal/rtree.h"
 #include "jemalloc/internal/safety_check.h"
 #include "jemalloc/internal/sc.h"
